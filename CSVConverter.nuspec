@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>svp</id>
+    <version>1.0</version>
+    <title>csv</title>
+    <authors>subvishpoo</authors>
+    <owners>subvishpoo</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>description</description>
+	<repository type="git" url="https://github.com/subbudatta/samplerepo" />
+    <releaseNotes>Summary of changes made in this release of the csv package.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>csv</tags>
+  </metadata>
+</package>
